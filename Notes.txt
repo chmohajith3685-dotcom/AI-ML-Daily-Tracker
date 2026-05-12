@@ -1,0 +1,15 @@
+Notes :-
+1.First installed python in my laptop.
+2.Secondly insatlled Virtual Studio Code.
+3.Understood python Syntax
+4.Learned Variables
+5.Learned Data types
+6.Created Github Repository For Tracking Progress
+
+
+Practice Done :-
+1.Print Statements
+2.Varibale Creation
+3.Integer, float, string, boolean data types
+
+<Thats It !>
