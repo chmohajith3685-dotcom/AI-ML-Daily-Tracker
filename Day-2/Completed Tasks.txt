@@ -1,0 +1,7 @@
+first of all i have completed some certain tasks
+1.Learned and practiced about input and output operations in python
+2.Learned and practiced upon operators 
+3.also learned about different types of operators and how to use them 
+4.Learned about basic string formatting.
+5.Learned Input with type conversion and Practiced using certain example
+6.at last uploaded everything in github repo.
