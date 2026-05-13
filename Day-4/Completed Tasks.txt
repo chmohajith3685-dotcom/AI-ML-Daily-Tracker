@@ -1,0 +1,17 @@
+Concepts that i have learned:
+
+Functions
+Function calls
+Parameters
+Return values
+Recursive functions
+Base cases
+Modular programming
+Importing functions from another file
+
+I have also created:
+
+mathfunctions.py
+imported functions into another file
+
+< Day 4 Completed >
