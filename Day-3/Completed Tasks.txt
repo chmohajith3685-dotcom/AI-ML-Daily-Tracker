@@ -1,0 +1,9 @@
+Learned and practiced control flow statements
+Learned and practiced Loops 
+Practiced some other problems by using loops and control statements
+
+*Prime numbers
+*Factorial 
+*Fibonacci Generator
+
+< Day 3 Completed >
